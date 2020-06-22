@@ -3,3 +3,4 @@ celery==4.4.5
 pika==1.0.0
 slackclient
 google-python-cloud-debugger
+flask
